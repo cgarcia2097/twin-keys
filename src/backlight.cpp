@@ -26,7 +26,7 @@
 /**
     File: underglow.cpp
     Author: Charles Garcia
-    Date: June 11, 2019
+    Date: January 12, 2020
     Description: Provides setup and underglow animations for the 8pack keypad
 */
 
