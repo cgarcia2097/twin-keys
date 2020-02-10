@@ -1,2 +1,2 @@
 # twin-keys
-Repository for the twinpeaks project
+Repository for the twin keys project
