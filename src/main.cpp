@@ -27,7 +27,7 @@
   * File: main.cpp
   * Author: Charles Garcia
     Date: January 12, 2020
-  * Description: Main .cpp for the twin keys project
+  * Description: Main .cpp for the twinpeaks project
   *
 */
 
