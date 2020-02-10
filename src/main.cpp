@@ -26,8 +26,8 @@
 /**
   * File: main.cpp
   * Author: Charles Garcia
-  * Date: June 11, 2019
-  * Description: Main .cpp for the 8pack project
+    Date: January 12, 2020
+  * Description: Main .cpp for the twin keys project
   *
 */
 
