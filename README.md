@@ -5,7 +5,7 @@ A variation of the 8pack project which uses two Novelkeys Big Switch buttons to 
 Install the versions required for your operating system
 
 - Arduino: https://www.arduino.cc/en/Main/Software
-- Or alternatively, VScode + PlatformIO exten: https://code.visualstudio.com/ + https://platformio.org/
+- Or alternatively, VScode + PlatformIO extension: https://code.visualstudio.com/ + https://platformio.org/
 - The following libraries (Searchable through Arduino or PlatformIO library index):
     * Keyboard : https://github.com/arduino-libraries/Keyboard
     * Neopixel : https://github.com/adafruit/Adafruit_NeoPixel
