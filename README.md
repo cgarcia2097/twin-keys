@@ -21,4 +21,5 @@ See [Bill of Materials](./bom/BOM.md)
 
 # TODO
 - Assembly guides
+- Compilation / flashing guide
 - Wiring diagrams
