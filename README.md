@@ -1,6 +1,8 @@
 # twinpeaks
 A variation of the 8pack project which uses two Novelkeys Big Switch buttons to create a giant two-button controller. This controller was built for a meetup which involved rhythm games.
 
+![img](./images/IMG_3252.JPG)
+
 # Required software
 Install the versions required for your operating system
 
